@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/sw8vxc8/ipiranga-banner.png" />
+  <img src="https://i.ibb.co/jD6gmhC/banner-app2.png" alt="banner-app2" border="0">
 </div>
 ---
 
