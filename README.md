@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/Ik7w4bu.png" alt="app-ipiranga-cashback" border="0">
 </div>
----
+
 
 ### Hi there 👋
 
