@@ -1,4 +1,16 @@
+<div id="header" align="center">
+  <img src="https://i.ibb.co/sw8vxc8/ipiranga-banner.png" />
+</div>
+---
+
 ### Hi there 👋
+
+
+
+---
+<div id="views counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ProjetoAppIpiranga&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **ProjetoAppIpiranga/ProjetoAppIpiranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
