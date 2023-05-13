@@ -6,14 +6,15 @@
 <h1>Quanto mais serviços, melhor.</h1>
 <br>
 
-<b>Memorável</b>. É o adjetivo certo para definir um dos postos mais tradicionais do Brasil. O Posto Ipiranga, fundado em 1937, se tornou sinônimo de qualidade e variedade. Ao analisarmos seu impacto nos dias atuais, percebemos sua alta capacidade de Market Share e engajamento no público. Através da nossa pesquisa, pudemos extrair alguns insights relevantes sobre o app "Abastece Aí", um dos pilares da Ipiranga e de seu programa de fidelidade.
+<p><b>Memorável</b>. É o adjetivo certo para definir um dos postos mais tradicionais do Brasil. O Posto Ipiranga, fundado em 1937, se tornou sinônimo de qualidade e variedade. Ao analisarmos seu impacto nos dias atuais, percebemos sua alta capacidade de Market Share e engajamento no público. Através da nossa pesquisa, pudemos extrair alguns insights relevantes sobre o app "Abastece Aí", um dos pilares da Ipiranga e de seu programa de fidelidade.</p>
 
 <br>
 <br>
 
 <h3>Pesquisa de satisfação do app "Abastece Aí"</h3>
-Acesse <a href="https://s.surveyplanet.com/mkwemztc" target="_blank">aqui</a> a pesquisa.
+<p>Acesse <a href="https://s.surveyplanet.com/mkwemztc" target="_blank">aqui</a> a pesquisa.</p>
 
+<br>
 <br>
 <br>
 
