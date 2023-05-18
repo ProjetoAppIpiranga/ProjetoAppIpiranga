@@ -16,36 +16,36 @@
 
 <br>
 
-<h3>Equipe</h3>
+<h3>EQUIPE:</h3>
 <ul> 
   <li>Ana Paula Chaves dos Santos 
     <a href="https://www.linkedin.com/in/ana-paula-chaves-00a29561">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="23">
     </a>
   </li>
   <li>Daniel Paulino da Silva Falcão 
     <a href="https://www.linkedin.com/in/danielsfalcao">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="23">
     </a>
   </li>
   <li>Daniele Cristine Endo Peres 
     <a href="https://www.linkedin.com/in/daniele-e-peres/">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="23">
     </a>
   </li>
   <li>Jeferson Luiz Moura Pereira 
     <a href="https://www.linkedin.com/in/jeferson-luiz-moura-pereira-05407735/">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="23">
     </a>
   </li>
   <li>Jorge Antonio Silva Ramos de Vasconcellos Junior 
     <a href="https://www.linkedin.com/in/jorge-vasconcellos">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="23">
     </a>
   </li>
   <li>Lilian Oliveira Roberto 
     <a href="https://www.linkedin.com/in/lilianor/">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="23">
     </a>
   </li>
 </ul>
