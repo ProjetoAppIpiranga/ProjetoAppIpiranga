@@ -12,7 +12,7 @@
 <br>
 
 <h3>Pesquisa de satisfação do app "Abastece Aí"</h3>
-<p>Acesse <a href="https://s.surveyplanet.com/mkwemztc" target="_blank">aqui</a> a pesquisa.</p>
+<p>Acesse <a href="https://s.surveyplanet.com/mkwemztc" target="_blank">aqui</a> a pesquisa online.</p>
 
 <br>
 
