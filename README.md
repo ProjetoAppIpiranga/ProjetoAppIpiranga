@@ -18,9 +18,9 @@
 
 <h3>Equipe</h3>
 <ul> 
-  <li>Ana Paula Chaves dos Santos
+  <li>Ana Paula Chaves dos Santos 
     <a href="https://www.linkedin.com/in/ana-paula-chaves-00a29561">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="30">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="20">
     </a>
   </li>
   <li>Daniel Paulino da Silva Falcão
