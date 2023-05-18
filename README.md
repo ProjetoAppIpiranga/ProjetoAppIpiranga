@@ -20,32 +20,32 @@
 <ul> 
   <li>Ana Paula Chaves dos Santos 
     <a href="https://www.linkedin.com/in/ana-paula-chaves-00a29561">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="20">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
     </a>
   </li>
-  <li>Daniel Paulino da Silva Falcão
+  <li>Daniel Paulino da Silva Falcão 
     <a href="https://www.linkedin.com/in/danielsfalcao">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
     </a>
   </li>
-  <li>Daniele Cristine Endo Peres
-    <a href="">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true">
+  <li>Daniele Cristine Endo Peres 
+    <a href="https://www.linkedin.com/in/daniele-e-peres/">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
     </a>
   </li>
-  <li>Jeferson Luiz Moura Pereira
+  <li>Jeferson Luiz Moura Pereira 
     <a href="https://www.linkedin.com/in/jeferson-luiz-moura-pereira-05407735/">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
     </a>
   </li>
-  <li>
-    <a href="https://www.linkedin.com/in/jorge-vasconcellos">Jorge Antonio Silva Ramos de Vasconcellos Junior
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true">
+  <li>Jorge Antonio Silva Ramos de Vasconcellos Junior 
+    <a href="https://www.linkedin.com/in/jorge-vasconcellos">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
     </a>
   </li>
-  <li>Lilian Oliveira Roberto
+  <li>Lilian Oliveira Roberto 
     <a href="https://www.linkedin.com/in/lilianor/">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="25">
     </a>
   </li>
 </ul>
