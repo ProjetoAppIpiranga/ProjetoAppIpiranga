@@ -16,6 +16,11 @@
 
 <br>
 
+<h3>Repositório</h3>
+<p>Acesse <a href="https://github.com/ProjetoAppIpiranga/Principal">aqui</a> o repositório com a descrição do projeto e o material de suporte.</p>
+
+<br>
+
 <h3>EQUIPE:</h3>
 <ul> 
   <li>Ana Paula Chaves dos Santos 
