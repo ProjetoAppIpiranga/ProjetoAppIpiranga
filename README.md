@@ -28,11 +28,6 @@
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="20">
     </a>
   </li>
-  <li>Daniel Paulino da Silva Falcão 
-    <a href="https://www.linkedin.com/in/danielsfalcao">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="20">
-    </a>
-  </li>
   <li>Daniele Cristine Endo Peres 
     <a href="https://www.linkedin.com/in/daniele-e-peres/">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="20">
